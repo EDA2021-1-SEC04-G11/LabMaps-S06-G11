@@ -1,3 +1,4 @@
+Lina Maria Gomez, 201923531, l.gomez1@uniandes.edu.co - Juan montealegre, 202012723, j.montealegres@uniandes.edu.co
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
